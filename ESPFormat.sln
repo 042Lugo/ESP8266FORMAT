@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESPFormat", "ESPFormat.csproj", "{28D1E23D-7CBD-4663-84EA-A80FC23601EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28D1E23D-7CBD-4663-84EA-A80FC23601EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28D1E23D-7CBD-4663-84EA-A80FC23601EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28D1E23D-7CBD-4663-84EA-A80FC23601EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28D1E23D-7CBD-4663-84EA-A80FC23601EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB091966-D1BA-4808-9D39-D48E24689D65}
+	EndGlobalSection
+EndGlobal

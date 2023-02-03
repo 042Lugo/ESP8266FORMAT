@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\ESPFormat\bin\Debug\net6.0-windows\ESPFormat.exe
+C:\Users\admin\source\repos\ESPFormat\bin\Debug\net6.0-windows\ESPFormat.deps.json
+C:\Users\admin\source\repos\ESPFormat\bin\Debug\net6.0-windows\ESPFormat.runtimeconfig.json
+C:\Users\admin\source\repos\ESPFormat\bin\Debug\net6.0-windows\ESPFormat.dll
+C:\Users\admin\source\repos\ESPFormat\bin\Debug\net6.0-windows\ESPFormat.pdb
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.Form1.resources
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.AssemblyInfo.cs
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.dll
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\refint\ESPFormat.dll
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.pdb
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ESPFormat.genruntimeconfig.cache
+C:\Users\admin\source\repos\ESPFormat\obj\Debug\net6.0-windows\ref\ESPFormat.dll
